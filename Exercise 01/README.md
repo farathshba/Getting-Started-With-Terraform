@@ -1,0 +1,1 @@
+##This is a sample Terraform script to create a FREE EC2 instance running on the AWS
